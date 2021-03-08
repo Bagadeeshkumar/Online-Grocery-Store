@@ -1,0 +1,37 @@
+html {
+  min-height: 100%;
+}
+
+.img {
+  height: 720px;
+}
+
+.bk {
+  background-color: #a278d8;
+}
+
+.item-img {
+  width: 300px;
+  height: 300px;
+}
+
+.space {
+  margin: 20px;
+}
+
+.space-a {
+  height: 350px;
+}
+
+#user,
+#admin {
+  cursor: pointer;
+}
+
+.mainad {
+  background-color: #e2f3f5;
+}
+
+.main {
+  background-color: #c5e3f6;
+}
