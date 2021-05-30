@@ -16,8 +16,8 @@ function mailTo($to, $user, $subject, $body, $success, $error)
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'projectdemo1310@gmail.com';
-        $mail->Password = 'project@demo';
+        $mail->Username = '';//your mail id
+        $mail->Password = '';//your password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
